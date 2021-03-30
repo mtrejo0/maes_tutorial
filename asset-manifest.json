@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maes_tutorial/static/css/main.1b05a1cd.chunk.css",
+    "main.js": "/maes_tutorial/static/js/main.778d87a8.chunk.js",
+    "main.js.map": "/maes_tutorial/static/js/main.778d87a8.chunk.js.map",
+    "runtime-main.js": "/maes_tutorial/static/js/runtime-main.df3dab7e.js",
+    "runtime-main.js.map": "/maes_tutorial/static/js/runtime-main.df3dab7e.js.map",
+    "static/js/2.8db9c0e4.chunk.js": "/maes_tutorial/static/js/2.8db9c0e4.chunk.js",
+    "static/js/2.8db9c0e4.chunk.js.map": "/maes_tutorial/static/js/2.8db9c0e4.chunk.js.map",
+    "static/js/3.86d90907.chunk.js": "/maes_tutorial/static/js/3.86d90907.chunk.js",
+    "static/js/3.86d90907.chunk.js.map": "/maes_tutorial/static/js/3.86d90907.chunk.js.map",
+    "index.html": "/maes_tutorial/index.html",
+    "static/css/main.1b05a1cd.chunk.css.map": "/maes_tutorial/static/css/main.1b05a1cd.chunk.css.map",
+    "static/js/2.8db9c0e4.chunk.js.LICENSE.txt": "/maes_tutorial/static/js/2.8db9c0e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3dab7e.js",
+    "static/js/2.8db9c0e4.chunk.js",
+    "static/css/main.1b05a1cd.chunk.css",
+    "static/js/main.778d87a8.chunk.js"
+  ]
+}
